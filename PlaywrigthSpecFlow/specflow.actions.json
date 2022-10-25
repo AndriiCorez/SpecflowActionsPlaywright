@@ -1,0 +1,10 @@
+{
+    "playwright": {
+        "browser": "chrome",
+        "args": [
+            "--start-maximized"
+        ],
+        "defaultTimeout": 5,
+        "headless": false
+    }
+}
